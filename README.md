@@ -1,4 +1,4 @@
-# Zokou-2.0 🚀
+op# Zokou-2.0 🚀
 
 Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
 
@@ -48,16 +48,16 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
 ```env
-PREFIX=.
-AUTO_READ_STATUS=yes
+PREFIX=🏆
+AUTO_READ_STATUS=no
 AUTO_DOWNLOAD_STATUS=yes
 PM_PERMIT=no
 BOT_NAME=Zokou-MD
 BOT_MENU_LINKS=LUFFY
-PUBLIC_MODE=yes
+PUBLIC_MODE=no
 HEROKU=no
 OWNER_NAME=Djalega++
-NUMERO_OWNER=22891733300
+NUMERO_OWNER=42176357
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=yes
 PRESENCE=1
